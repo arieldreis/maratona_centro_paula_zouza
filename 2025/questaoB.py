@@ -9,5 +9,6 @@ while True:
         dadosDrones = v1, v2, v3, v4, v5
         listaDrones.append(dadosDrones)
 
-    print(listaDrones)
-
+    drone_rapido = max(listaDrones, key=sum) # Encontra a maior tupla dentro da tupla principal e depois soma
+    indice_drone = listaDrones.index(drone_rapido) # Descobre o índice da maior tupla.
+    print(f"Drone: {indice_drone + 1}")
