@@ -1,7 +1,7 @@
-# Experiência na Maratona de Programação - ETEC 2025
+# Experiência na Maratona de Programação - ETEC 
 
 ## Sobre o Projeto
-Este repositório representa minha participação na **Maratona de Programação da ETEC 2025**, um evento que desafiou estudantes a resolverem problemas complexos utilizando raciocínio lógico, otimização e boas práticas de programação.
+Este repositório representa minha participação na **Maratona de Programação da ETEC**, um evento que desafiou estudantes a resolverem problemas complexos utilizando raciocínio lógico, otimização e boas práticas de programação.
 
 Durante a competição, desenvolvi soluções voltadas à análise de dados, planejamento de rotas e cálculo eficiente de resultados, aplicando conceitos fundamentais de **lógica de programação** e estruturas de controle.
 
